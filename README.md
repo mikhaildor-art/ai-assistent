@@ -1,5 +1,6 @@
 
 ссылка на проект @Krovstandart_bot
+скриншот https://github.com/mikhaildor-art/ai-assistent/blob/main/TG_BOT.JPG?raw=true
 
 # 🤖 ИИ-бот-консультант компании «КровСтандарт» по подбору кровельных мембран (EPDM/TPO)
 
